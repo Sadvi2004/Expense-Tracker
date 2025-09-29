@@ -13,8 +13,8 @@ export default {
                 accent: "#2E7D32",
             },
             fontFamily: {
-                display: ['"Bricolage Grotesque"', "system-ui", "sans-serif"],
-                sans: ['Inter', "system-ui", "sans-serif"],
+                display: ["Bricolage Grotesque", "system-ui", "sans-serif"],
+                sans: ['Inter'],
             },
             boxShadow: {
                 soft: "0 10px 20px rgba(0,0,0,0.08)",
