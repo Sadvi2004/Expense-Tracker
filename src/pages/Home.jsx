@@ -13,7 +13,7 @@ export default function Home() {
     if (loading) {
         return (
             <main className="min-h-screen grid place-items-center text-white">
-                <p className="font-inter opacity-80">Checking session…</p>
+                <p className="font-inter opacity-80">Loading Pls Wait…</p>
             </main>
         );
     }
